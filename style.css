@@ -43,9 +43,12 @@ header {
 }
 
 .cross-symbol {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     opacity: 0.95;
+    background-color: #FFF8DC;
+    border-radius: 50%;
+    padding: 15px;
 }
 
 h1 {
